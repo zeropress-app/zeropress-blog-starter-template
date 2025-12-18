@@ -1,0 +1,2 @@
+# Admin routes should not be indexed
+/admin/* /admin/index.html 200
